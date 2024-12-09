@@ -1,0 +1,20 @@
+#título {
+
+    background-image: url("../img/professional/Professional\ \(2\).jpg") ;
+    color: white;
+    background-size: cover;
+
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+h1 {
+
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
