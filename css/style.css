@@ -1,0 +1,72 @@
+
+  
+h1  {
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#work h1  {
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+h2 {
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#tuki {
+
+    background-color: #157145;
+    text-align: center;
+    color: white;
+
+
+}
+
+h3 {
+    font-family: "Tsukimi Rounded", serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+    
+#taka {
+
+    background-color: #011627;
+    text-align: center;
+    color: white;
+
+
+}
+
+
+.personal-section {
+    background-image: url('../img/personal.JPG'); /* Ruta relativa corregida */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh; /* Ocupa toda la altura del viewport */
+    text-align: center;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+/* Estilo para la sección PROFESSIONAL */
+.professional-section {
+    background-image: url('../img/profesional.png'); /* Ruta relativa corregida */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh; /* Ocupa toda la altura del viewport */
+    text-align: center;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
